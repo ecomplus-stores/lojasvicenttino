@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://lojasvicenttino.netlify.app/roupas-femininas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://lojasvicenttino.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -38,13 +44,13 @@
     </url>
   
     <url>
-      <loc>https://lojasvicenttino.netlify.app/pages/trocas</loc>
+      <loc>https://lojasvicenttino.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://lojasvicenttino.netlify.app/pages/termos</loc>
+      <loc>https://lojasvicenttino.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -80,6 +86,12 @@
     </url>
   
     <url>
+      <loc>https://lojasvicenttino.netlify.app/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  
+    <url>
       <loc>https://lojasvicenttino.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -89,12 +101,6 @@
       <loc>https://lojasvicenttino.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://lojasvicenttino.netlify.app/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
