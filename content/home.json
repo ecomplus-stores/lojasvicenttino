@@ -4,13 +4,18 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 3000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/blusas.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/8-anos.jpg"
         }
       ]
     },
