@@ -590,7 +590,7 @@
     </url>
   
     <url>
-      <loc>https://lojasvicenttino.com.br/bermuda-masculina-rota-do-mar-cyan-c647</loc>
+      <loc>https://lojasvicenttino.com.br/bermuda-masculina-rota-do-mar-fish</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -758,13 +758,13 @@
     </url>
   
     <url>
-      <loc>https://lojasvicenttino.com.br/pages/entrega</loc>
+      <loc>https://lojasvicenttino.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://lojasvicenttino.com.br/pages/faq</loc>
+      <loc>https://lojasvicenttino.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -776,25 +776,25 @@
     </url>
   
     <url>
-      <loc>https://lojasvicenttino.com.br/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://lojasvicenttino.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://lojasvicenttino.com.br/pages/termos</loc>
+      <loc>https://lojasvicenttino.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://lojasvicenttino.com.br/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://lojasvicenttino.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -830,12 +830,6 @@
     </url>
   
     <url>
-      <loc>https://lojasvicenttino.com.br/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://lojasvicenttino.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -845,6 +839,12 @@
       <loc>https://lojasvicenttino.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lojasvicenttino.com.br/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
