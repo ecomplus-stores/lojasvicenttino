@@ -66,10 +66,11 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
-        "67ec2ee53b75ec550cdff4f2:categories:Saias:/saias"
+        "68079992ef51eb1c90d90cef:categories:Saias:/saias/"
       ],
       "sort": "offers",
-      "autoplay": 4000
+      "autoplay": 4000,
+      "shelfs_title": "Saias"
     }
   ]
 }
