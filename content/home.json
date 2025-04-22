@@ -27,12 +27,13 @@
     {
       "autoplay": 4000,
       "page": 1,
-      "title": "",
+      "title": "Camisas Masculinas",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
+      "link": "https://lojasvicenttino.com.br/camisas-masculinas",
       "limit": 12,
-      "collection_id": "67eb2ef73b75ec550cde042b:categories:Camisas Masculinas:/camisas-masculinas",
+      "collection_id": "68079988ef51eb1c90d90ccc:categories:Camisas Masculinas:/camisas-masculinas/",
       "sort": "offers"
     },
     {
