@@ -51,13 +51,14 @@
     {
       "type": "shelfs-nav",
       "shuffle": true,
-      "limit": 8,
+      "limit": 12,
       "page": 1,
       "collection_ids": [
-        "67e74a503b75ec550cd869cc:categories:Camisas Femininas:/camisas-femininas"
+        "6807998def51eb1c90d90cd9:categories:Blusas:/blusas/"
       ],
       "autoplay": 4000,
-      "sort": "offers"
+      "sort": "offers",
+      "shelfs_title": "Blusas Femininas"
     },
     {
       "type": "shelfs-nav",
