@@ -17,6 +17,17 @@
 >
   <%- await include('@/layout/menu') %>
 
+<div id="cookieconsent" class="cookieconsent d-none">
+  <div class="container cookieconsent-container">
+    <span>
+      Este site usa cookies para garantir que você obtenha a melhor experiência em nosso site.
+    </span>
+    <button id="cookieconsent-btn" class="btn product-buy-button">
+      Aceitar cookies
+    </button>
+  </div>
+</div>
+
   <main role="main" id="main">
     <%- await include('@/layout/header') %>
     <%- await include('@/layout/sections') %>
