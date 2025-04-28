@@ -1,1 +1,39 @@
 // Add your custom CSS here.
+.cookieconsent {
+  background: #fff;
+  color: #333;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  padding: 1.2rem 0;
+  box-shadow: 0 -2px 8px rgba(0,0,0,0.07);
+  font-size: 1rem;
+}
+
+.cookieconsent .text {
+  font-size: 1rem;
+  color: #333;
+}
+
+.cookieconsent a {
+  color: #f26a44;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+#cookieconsent-btn {
+  background: #f26a44;
+  color: #fff;
+  border: none;
+  padding: 0.55rem 2rem;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background 0.2s;
+  font-size: 1rem;
+}
+
+#cookieconsent-btn:hover {
+  background: #d45c39;
+}
