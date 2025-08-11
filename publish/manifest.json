@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.2ef8947e7db5c456db3b5aefeca16737.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.fd2fddd9319ee7ecbb49f16bbfcc4de2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8f0efa23ef1764cf8f53430fc6de7cf2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.565fe2669e9f2786eb89d1232b39aa5c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.b0f4544ea1df1336cbe2642fe01488c7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lojas Vicenttino",
+  "short_name": "Lojas Vicenttino",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Compre roupas online na Lojas Vicenttino. Aqui você encontra camisas, blusas, calças, vestido, bermudas, shorts e muito mais.",
+  "background_color": "#ffffff",
+  "theme_color": "#ec1b4b"
+}
